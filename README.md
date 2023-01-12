@@ -14,3 +14,7 @@ last_name:'Wang',
 email_addr:'wdz0077@163.com'
 }
 
+<h3>How to run</h3>
+
+1. npm install 
+2. node app.js
